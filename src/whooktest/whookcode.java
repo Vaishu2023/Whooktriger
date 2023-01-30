@@ -7,6 +7,7 @@ public class whookcode {
 		System.out.println("Checking");
 		System.out.println("Testing Again");
 		System.out.println("Whook testing");
+		System.err.println("Todays testing done");
 	}
 
 }
