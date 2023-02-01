@@ -10,6 +10,7 @@ public class whookcode {
 		System.err.println("Todays testing done");
 		System.out.println("testing maven");
 		System.out.println("Testing");
+		System.out.println("Testing done");
 	}
 
 }
