@@ -8,6 +8,8 @@ public class whookcode {
 		System.out.println("Testing Again");
 		System.out.println("Whook testing");
 		System.err.println("Todays testing done");
+		System.out.println("testing maven");
+		System.out.println("Testing");
 	}
 
 }
