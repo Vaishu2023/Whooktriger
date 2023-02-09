@@ -11,6 +11,7 @@ public class whookcode {
 		System.out.println("testing maven");
 		System.out.println("Testing");
 		System.out.println("Testing done");
+		System.out.println("Testing slave with webhook");
 	}
 
 }
